@@ -1,9 +1,12 @@
-import backgroundImage from './assets/imageburlesque.png';
+import Navbar from './components/Navbar';
 import Main from './components/main';
+import Additional from './components/Additional';
 function App() {
   return (
     <>
+    <Navbar/>
      <Main/>
+     <Additional/>
     </>
   )
 }
