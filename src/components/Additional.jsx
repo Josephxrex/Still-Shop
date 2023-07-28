@@ -19,18 +19,19 @@ const Additional = () => {
             {/* Contenedor de la imagen y el texto */}
             <div className="relative">
               <img className="w-[500px] h-[700px] relative left-80 top-60" src={img1} alt="Image" />
-              <div>Hola!</div>
-              <div>Hola!</div>
-              <div>Hola!</div>
-              <div>Hola!</div>
-              <div>Hola!</div>
-              <div>Hola!</div>
-              <div>Hola!</div>
-              <div>Hola!</div>
-              <div>Hola!</div>
+             
              
              
             </div>
+            <div>Hola!</div>
+              <div>Hola!</div>
+              <div>Hola!</div>
+              <div>Hola!</div>
+              <div>Hola!</div>
+              <div>Hola!</div>
+              <div>Hola!</div>
+              <div>Hola!</div>
+              <div>Hola!</div>
           </div>
         </div>
       </div>
